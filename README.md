@@ -1,3 +1,4 @@
+<!-- ✏️ Date: 230107 -->
 # Splunk 
 # Master Azure SOC Account 
 One Azure/Splunk integration guide to rule them all! 
@@ -96,7 +97,9 @@ Splunk security operations center engineers and analysts should prioritize the f
 ## Existing Deployments
 You can use an existing Splunk/Azure application registration and continue adding permissions to it via the [Azure/O365 Splunk Add-on Required Permissions](https://docs.google.com/spreadsheets/d/1YJAqNmcXZU-7O9CxVKupOkR6q2S8TXriMeLAUMYmMs4/edit#gid=0) document, or you can follow the guidance on [Splunkbase](https://splunkbase.splunk.com/) for the individual Azure integrations. 
 
-## WIP - Microsoft Intune <a id="intune"></a>
+## WIP - Microsoft Intune <a id="intune"></a> <!-- ✏️ Date: 230107 -->
+
+Please post comments, feedback and improvments to [Master Azure SOC Account - Discussions](https://github.com/tdmathis/tdmathis.github.io/discussions/1)
 
 You can log a variety of logs to Microsoft storage containers, including Intune. **I've only done this once and I wrote this from memory, but I hope it points you in the right direction.** 
 
