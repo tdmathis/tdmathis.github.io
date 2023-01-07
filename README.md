@@ -1,4 +1,5 @@
-# Splunk - Master Azure SOC Account 
+# Splunk 
+# Master Azure SOC Account 
 One Azure/Splunk integration guide to rule them all! 
 
 **Integrate (mostly) all the things - QUICKLY, EASILY, SIMULTANEOUSLY!**
@@ -7,7 +8,7 @@ The following process will allow you to integrate multiple Splunk Azure Add-ons 
 
 This drastically reduces implementation and configuration time for Splunk engineers and Azure administrators.  
 
-*Buy me a beer* - 
+*Buy me a beer* - paypal.me/TabathaMathis
 
 # Table of Contents
 1. [Overview](#overview)
