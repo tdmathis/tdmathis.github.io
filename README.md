@@ -7,13 +7,14 @@ The following process will allow you to integrate multiple Splunk Azure Add-ons 
 
 This drastically reduces implementation and configuration time for Splunk engineers and Azure administrators.  
 
+*Buy me a beer* - 
+
 # Table of Contents
 1. [Overview](#overview)
 2. [Steps](#steps)
 	- [Email Template for Teammates](#email-template-for-teammates)
 3. [Splunk Add-ons for Azure Overview](#splunk-add-ons-for-azure-overview)
 	- [The (main) Add-ons](#main-azure-addons)
-	- [Honorable Mention](#honorable-mention)
 	- [The (other) Add-ons](#other-azure-addons)
 	- [WIP - Inputs per Add-on to Enable](#wip)
 4. [Existing Deployments](#existing-deployments) 
@@ -77,7 +78,7 @@ Splunk security operations center engineers and analysts should prioritize the f
 
 -   [Splunk Add-on for Microsoft Office 365](https://splunkbase.splunk.com/app/4055/) -  Message Trace, cloud application security, administrator management activity, audit logs, *(spreadsheet line 3)*
  
-### Honorable Mention 
+#### Honorable Mention 
 - [Microsoft Graph Security API Add-on for Splunk](https://splunkbase.splunk.com/app/4564/) - May provide additional security context, *(spreadsheet line 8)* 
 	- Occasionally required from teams familiar with this data 
 
@@ -165,4 +166,3 @@ One thing that stands out to me is step 3.c in [Microsoft's Intune logging docum
 	See the second screenshot on the second step that provides a sample of Active Directory logs via Event Hub.  Note that  the only clear sourcetype differentiator is the tail end of the resourceId: [How to: Integrate Azure Active Directory logs with Splunk using Azure Monitor](https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-integrate-activity-logs-with-splunk)
 
 - If you have the opportunity to test and compare these ingestion methods, here is a link to Splunk docs on [Configure Azure Event Hub inputs for the Splunk Add-on for Microsoft Cloud Services](https://docs.splunk.com/Documentation/AddOns/released/MSCloudServices/Configureeventhubs)
-![image](https://user-images.githubusercontent.com/5565849/211169175-000384cc-3234-4c84-b6b4-7d1ca3d7c990.png)
