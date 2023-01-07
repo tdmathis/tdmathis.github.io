@@ -8,7 +8,7 @@ The following process will allow you to integrate multiple Splunk Azure Add-ons 
 
 This drastically reduces implementation and configuration time for Splunk engineers and Azure administrators.  
 
-*Buy me a beer* - paypal.me/TabathaMathis
+[*Buy me a beer*](https://www.paypal.me/TabathaMathis)
 
 # Table of Contents
 1. [Overview](#overview)
