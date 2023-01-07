@@ -1,5 +1,3 @@
-# tdmathis.github.io
-
 # Splunk - Master Azure SOC Account 
 One Azure/Splunk integration guide to rule them all! 
 
